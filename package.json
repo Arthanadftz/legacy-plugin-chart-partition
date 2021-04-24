@@ -1,6 +1,6 @@
 {
   "name": "@arthanasti/legacy-plugin-chart-partition",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Superset Legacy Chart - Partition",
   "sideEffects": [
     "*.css"
